@@ -9,7 +9,7 @@ public class Controller {
 	@GetMapping
 	public String saludo() {
 		
-		return "Hola mundo, hola jenkins";
+		return "Hola mundo, hola jenkins, hola docker";
 	}
 
 }
